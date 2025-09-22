@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is obua daniel from Uganda currently staying in Rwanda
 <!--
 **daniel-obua/daniel-obua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
